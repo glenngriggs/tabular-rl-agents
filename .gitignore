@@ -12,3 +12,5 @@ starter_files.tar.xz
 
 
 env/
+
+__pycache__
